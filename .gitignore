@@ -5,7 +5,7 @@ env/
 
 # 데이터
 /data/
-/home/snucsnl/vision/caltech256_subset/
+/home/snucsnl/vision/caltech256_subset/*
 
 # Python
 __pycache__/
