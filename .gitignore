@@ -1,0 +1,40 @@
+# 가상환경
+/.venv/
+venv/
+env/
+
+# 데이터
+/data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 환경변수 / 비밀키
+.env
+
+# 학습 결과물
+*.pt
+*.pth
+*.ckpt
+runs/
+wandb/
+lightning_logs/
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# 캐시 / 테스트
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/mobileclip2_b.ts
