@@ -38,3 +38,7 @@ lightning_logs/
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/mobileclip2_b.ts
+
+
+
+.ts
