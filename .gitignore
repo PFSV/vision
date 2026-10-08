@@ -43,3 +43,10 @@ lightning_logs/
 
 
 .ts
+# Vision pipeline outputs
+*.ts
+*.npz
+*.onnx
+*.jsonl
+/yolo/artifacts/
+/datasets/

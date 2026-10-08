@@ -1,0 +1,6 @@
+-r requirements.txt
+onnx==1.23.2
+onnxruntime==1.30.0
+onnxslim==0.1.98
+rknn-toolkit2>=2.3.2; sys_platform == 'linux' and platform_machine == 'x86_64'
+setuptools<82; sys_platform == 'linux' and platform_machine == 'x86_64'

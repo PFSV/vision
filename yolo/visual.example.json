@@ -1,0 +1,6 @@
+{
+  "image": "reference.jpg",
+  "bboxes": [[10, 20, 100, 200]],
+  "cls": [0],
+  "names": ["person"]
+}

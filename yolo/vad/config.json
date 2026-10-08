@@ -1,0 +1,10 @@
+{
+  "confidence": 0.45,
+  "hold_seconds": 2.0,
+  "gap_seconds": 0.3,
+  "wide_ratio": 1.4,
+  "max_people": 5,
+  "restricted_region": null,
+  "person_labels": ["person", "standing person", "sitting person", "lying person", "person lying on the ground", "fallen person"],
+  "lying_labels": ["lying person", "person lying on the ground", "fallen person"]
+}

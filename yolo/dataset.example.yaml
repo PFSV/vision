@@ -1,0 +1,8 @@
+# Copy this file and set path to your labeled dataset. Paths under path are relative.
+path: /absolute/path/to/vision-data
+train: images/train
+val: images/val
+names:
+  0: standing person
+  1: sitting person
+  2: person lying on the ground
